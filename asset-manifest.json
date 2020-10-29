@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/%7Bapp-react-pages%7D/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/%7Bapp-react-pages%7D/static/js/main.712cd37b.chunk.js",
+    "main.js.map": "/%7Bapp-react-pages%7D/static/js/main.712cd37b.chunk.js.map",
+    "runtime-main.js": "/%7Bapp-react-pages%7D/static/js/runtime-main.bdf5cf42.js",
+    "runtime-main.js.map": "/%7Bapp-react-pages%7D/static/js/runtime-main.bdf5cf42.js.map",
+    "static/js/2.bb81fc68.chunk.js": "/%7Bapp-react-pages%7D/static/js/2.bb81fc68.chunk.js",
+    "static/js/2.bb81fc68.chunk.js.map": "/%7Bapp-react-pages%7D/static/js/2.bb81fc68.chunk.js.map",
+    "static/js/3.75d1ed4e.chunk.js": "/%7Bapp-react-pages%7D/static/js/3.75d1ed4e.chunk.js",
+    "static/js/3.75d1ed4e.chunk.js.map": "/%7Bapp-react-pages%7D/static/js/3.75d1ed4e.chunk.js.map",
+    "index.html": "/%7Bapp-react-pages%7D/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/%7Bapp-react-pages%7D/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.bb81fc68.chunk.js.LICENSE.txt": "/%7Bapp-react-pages%7D/static/js/2.bb81fc68.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/%7Bapp-react-pages%7D/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bdf5cf42.js",
+    "static/js/2.bb81fc68.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.712cd37b.chunk.js"
+  ]
+}
